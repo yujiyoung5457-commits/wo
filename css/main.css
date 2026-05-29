@@ -235,7 +235,7 @@ section.on{
  }
 
  .mainImageBox{
-   background-image: url(./img/woodinmainpage.png);
+   background-image: url(../img/woodinmainpage.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -285,7 +285,7 @@ section.on{
   width: 100%;
   height: 100%;
   object-fit: cover;
-   background-image: url(./img/woodinMaintwo.png);
+   background-image: url(../img/woodinMaintwo.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -383,7 +383,7 @@ section.on{
   transition: all 0.5s;
  }
  .mini1{
-  background-image: url(/img/1.png);
+  background-image: url(../img/1.png);
  }
   .mini2{
   width: 780px;
@@ -406,22 +406,22 @@ section.on{
   
  }
  .mini3{
-  background-image: url(./img/6.png);
+  background-image: url(../img/6.png);
  }
   .mini4{
-  background-image: url(./img/2.png);
+  background-image: url(../img/2.png);
  }
   .mini5{
-  background-image: url(./img/3.png);
+  background-image: url(../img/3.png);
  }
   .mini6{
-  background-image: url(./img/4.png);
+  background-image: url(../img/4.png);
  }
   .mini7{
-  background-image: url(./img/5.png);
+  background-image: url(../img/5.png);
  }
   .mini8{
-  background-image: url(./img/6.png);
+  background-image: url(../img/6.png);
  }
 .miniBox:hover .miniImage{
   /* border: 1px solid red; */
@@ -475,7 +475,7 @@ section.on{
   font-family: "Nanum Gothic", sans-serif;
  }
 .imageBox2{
-  background-image: url(./img/due.jpg);
+  background-image: url(../img/due.jpg);
   width: 70%;
   height: 80%;
   border-radius: 8px;
@@ -541,25 +541,25 @@ section.on{
   width: 100%;
   height: 100%;
   transition: all 0.3s;
-  background-image: url(./img/best_1.jpg);
+  background-image: url(../img/best_1.jpg);
 }
 .bestNImage2{
   width: 100%;
   height: 100%;
   transition: all 0.3s;
-  background-image: url(./img/best_2.jpg);
+  background-image: url(../img/best_2.jpg);
 }
 .bestNImage3{
   width: 100%;
   height: 100%;
   transition: all 0.3s;
-  background-image: url(./img/best_3.jpg);
+  background-image: url(../img/best_3.jpg);
 }
 .bestNImage4{
   width: 100%;
   height: 100%;
   transition: all 0.3s;
-  background-image: url(./img/best_4.jpg);
+  background-image: url(../img/best_4.jpg);
 }
 
 .se{
@@ -607,7 +607,7 @@ section.on{
    flex-direction: column;
 }
 .bigImage{
-  background-image: url(./img/bigImage.jpg) ;
+  background-image: url(../img/bigImage.jpg) ;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -649,7 +649,7 @@ section.on{
   z-index: 2;
   width: 100%;
   height: 65%;
-  background-image: url(./img/frameImage.jpg);
+  background-image: url(../img/frameImage.jpg);
    background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -745,7 +745,7 @@ footer{
   width: 10%;
   height: 80%;
   /* border: 1px solid red; */
-  background-image: url(./img/imgi_16_logo_p.png);
+  background-image: url(../img/imgi_16_logo_p.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: contain;
