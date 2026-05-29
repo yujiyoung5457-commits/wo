@@ -34,7 +34,7 @@ body::-webkit-scrollbar{
   margin-right: 100px;
     width: 150px;
     height: 85px;
-    background-image: url(./img/imgi_16_logo.png);
+    background-image: url(./img/img_16_logo.png);
     background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
@@ -383,7 +383,7 @@ section.on{
   transition: all 0.5s;
  }
  .mini1{
-  background-image: url(./img/1.png);
+  background-image: url(/img/1.png);
  }
   .mini2{
   width: 780px;
