@@ -38,7 +38,7 @@ body::-webkit-scrollbar{
   margin-right: 100px;
     width: 150px;
     height: 85px;
-    background-image: url(/img/imgi_16_logo.png);
+    background-image: url(../img/imgi_16_logo.png);
     background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
@@ -236,7 +236,7 @@ section.on{
    justify-content: center;
  }
  .image1{
-    background-image: url(/img/cr1.jpg);
+    background-image: url(../img/cr1.jpg);
     width: 95%;
     height: 85%;
     background-position: center;
@@ -319,7 +319,7 @@ section.on{
     display: flex;
    justify-content: start;
    align-items: start;
-    background-image: url(/img/cr2.jpg);
+    background-image: url(../img/cr2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

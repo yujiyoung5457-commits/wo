@@ -34,7 +34,7 @@ body::-webkit-scrollbar{
   margin-right: 100px;
     width: 150px;
     height: 85px;
-    background-image: url(/img/imgi_16_logo.png);
+    background-image: url(../img/imgi_16_logo.png);
     background-position: center;
    background-repeat: no-repeat;
    background-size: contain;
@@ -284,7 +284,7 @@ section.on{
 .imgOne{
    width: 36%;
    height: 100%;
-   background-image: url(/img/woodinshowroom1.jpg);
+   background-image: url(../img/woodinshowroom1.jpg);
    border-radius: 10px;
 }
 .imgTwo{
@@ -297,7 +297,7 @@ section.on{
    gap: 20px;
 }
 .imgTwo div:nth-child(1){
-   background-image: url(/img/woodinshowroom2.jpg);
+   background-image: url(../img/woodinshowroom2.jpg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -341,7 +341,7 @@ section.on{
    width: 65%;
    height: 80%;
    border-radius: 10px 0 0  10px;
-   background-image: url(/img/sowroomguide1.jpg);
+   background-image: url(../img/sowroomguide1.jpg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -540,7 +540,7 @@ footer{
   width: 10%;
   height: 80%;
   /* border: 1px solid red; */
-  background-image: url(/img/imgi_16_logo_p.png);
+  background-image: url(../img/imgi_16_logo_p.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: contain;
