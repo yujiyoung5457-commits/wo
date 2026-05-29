@@ -235,7 +235,7 @@ section.on{
  }
 
  .mainImageBox{
-   background-image: url(../img/woodinmainpage.png);
+   background-image: url(/img/woodinmainpage.png);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
